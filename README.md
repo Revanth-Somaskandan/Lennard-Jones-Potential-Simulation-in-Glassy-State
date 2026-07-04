@@ -119,9 +119,9 @@ Displacement vectors showing particle movement from the initial configuration.
 ```text
 Glassy-State-Simulation/
 │
-├── Main.py
+├── Simulation.py
 ├── README.md
-├── Report.pdf
+├── Glassy_State_Simulation_Report.pdf
 └── results/
     ├── energy.png
     ├── initial.png
